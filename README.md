@@ -6,4 +6,4 @@ feature : mask detection, Thermal Imaging Camera, Security camera, automatic doo
 
 AMG88xx / motor / camera / raspberrypi
 
-use socket.io to send thermal data 
+use socket to send thermal data 
